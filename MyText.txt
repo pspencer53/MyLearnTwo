@@ -1,5 +1,9 @@
 Rem - This is a test file
 1234
-abcd
+aBcd
 5678
-EFGH
+EfGH
+9012
+IJKL
+
+This is a new line
